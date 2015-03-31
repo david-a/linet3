@@ -1,3 +1,0 @@
-[submodule "libfoo"]
-    path = protected/yii
-    url = git@github.com:yiisoft/yii.git
